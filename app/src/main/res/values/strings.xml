@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RedSocialJuan</string>
+    <string name="titleSocial">Inicia sesion en tu Red Social</string>
+    <string name="txvUser">Usuario</string>
+    <string name="txvPass">Contraseña</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="titleChoise">Elige la Red Social</string>
+    <string name="noCorrect">Ningún campo puede estar vacío</string>
+    <string name="accep">Aceptar</string>
+    <string name="eligecuenta">Debes elegir una cuenta</string>
+    <string name="incorrec">No coinciden el nombre o la contraseña</string>
+    <string name="orderchoise">Elige el orden</string>
+    <string name="login">Inicia sesion</string>
+    <string name="edtAddamigo">nombre de tu amigo</string>
+    <string name="emailAddamigo">correo de tu amigo</string>
+    <string name="btnaddamigo">AÑADIR</string>
+    <string name="error">Error de amigo</string>
+    <string name="empty">Hay campos vacíos</string>
+    <string name="vale">Vale hombre</string>
+    <string name="correo">Repetido!!</string>
+    <string name="repe">Hay un amigo con ese correo en esta cuenta</string>
+    <string-array name="sociales">
+        <item>Facebook</item>
+        <item>Gmail</item>
+        <item>Twitter</item>
+    </string-array>
+    <string-array name="orden">
+        <item>ASC</item>
+        <item>DESC</item>
+    </string-array>
+</resources>

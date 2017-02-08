@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RedSocialJuan</string>
+    <string name="titleSocial">Login in your Social account</string>
+    <string name="txvUser">User</string>
+    <string name="txvPass">Password</string>
+    <string name="cuenta">Account</string>
+    <string name="titleChoise">Choose Social Red</string>
+    <string name="noCorrect">Any fields can be empty</string>
+    <string name="accep">Accept</string>
+    <string name="eligecuenta">You Must to choise an account</string>
+    <string name="incorrec">Name or password aren\'t equals</string>
+    <string name="orderchoise">Choose ORDER</string>
+    <string name="login">Log In</string>
+    <string name="edtAddamigo">yout friend\'s name</string>
+    <string name="emailAddamigo">your friend\'s email</string>
+    <string name="btnaddamigo">ADD</string>
+    <string name="error">Friend ERROR</string>
+    <string name="empty">There are empty fields</string>
+    <string name="vale">Ok men</string>
+    <string name="correo">Repeted!!</string>
+    <string name="repe">Exists a friend with the same email</string>
+    <string-array name="sociales">
+        <item>Facebook (ingles)</item>
+        <item>Gmail (ingles)</item>
+        <item>Twitter (ingles)</item>
+    </string-array>
+    <string-array name="orden">
+        <item>ASC (ingles)</item>
+        <item>DESC (ingles)</item>
+    </string-array>
+</resources>
